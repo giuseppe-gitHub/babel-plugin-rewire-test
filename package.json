@@ -1,0 +1,11 @@
+{
+  "name": "babel-plugin-rewire-test",
+  "version": "1.0.0",
+  "description": "test of babel-plugin-rewire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giuseppe Pace",
+  "license": "ISC"
+}
